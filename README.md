@@ -1,7 +1,7 @@
 <h2 align="left">Eaii, me chamo Ferdinando Rainert e sou programador Full Stack...</h2>
 -  Desenvolvedora Full Stack.
 -  Interesso-me por tecnologia e boas práticas de código.
--  Cursando **Análise e Desenvolvimento de Sistemas**.
+-  Cursando Análise e Desenvolvimento de Sistemas.
 
 ###
 
